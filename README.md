@@ -18,7 +18,7 @@ cmd
 pip install django
 ```
 
-## Start Server Development
+## Server Development
 
 ```
 python manage.py runserver
